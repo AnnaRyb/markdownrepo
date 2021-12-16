@@ -23,7 +23,7 @@ Step 2. By clicking the issue icon, you are moved to the error details screen. I
        the error map with a split into application, services and infrastucter as per below pattern
 
 | Tables       |      Affected | Recovered| Monitored|
-|---------  -  |:-------------:|------:   |------:   |
+|------------  |:-------------:|------:   |------:   |
 |Application   |       1       | $1600    |3456789   |
 |Service       |       0       |   $12    |567892    |
 |Infrastructure|       0       |6789023   |51114678  |
