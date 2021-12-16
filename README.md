@@ -17,4 +17,4 @@ This is how it works
  
 As a user, you might need to perform certain steps to precisely determine the cause of failure and repair it immediately.
  Step 1. Check the Dynatrace dashboard for issues and devaitions, such as sudden drop in 
-![Screenshot] (https://commons.wikimedia.org/wiki/File:Cat03.jpg)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
