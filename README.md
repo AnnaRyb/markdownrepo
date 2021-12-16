@@ -1,7 +1,8 @@
-# monitor your website with an eagle-eyed error detection tool
+# scan  with an eagle-eyed error detection tool
+# observe 
 
 Have you ever wondered if it is possible to detect application flaws in a split second? It is now possible with the Session Replay feature.
-How does it work?
+This is how it works
 
   Example scenario
   Imagine an online shop, www.performancewear.com that sells clothing and accessories through a single-page application running on Amazon AWS.
@@ -14,5 +15,6 @@ How does it work?
   Outcome
  Inefficiences are determined and mitigated.
  
-As a user, you might need to perform certain steps to precisely determine the cause of failure and repair it
- Step 1.
+As a user, you might need to perform certain steps to precisely determine the cause of failure and repair it immediately.
+ Step 1. Check the Dynatrace dashboard for issues and devaitions, such as sudden drop in 
+![Screenshot] : (C:\Users\G3 3579-7581\Desktop\dynatrace\deviations)
