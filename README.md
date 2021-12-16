@@ -27,3 +27,10 @@ Step 2. By clicking the issue icon, you are moved to the error details screen. I
 |Application   |       1       | $1600    |3456789   |
 |Service       |       0       |   $12    |567892    |
 |Infrastructure|       0       |6789023   |51114678  |
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
