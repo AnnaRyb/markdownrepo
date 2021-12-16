@@ -17,4 +17,4 @@ This is how it works
  
 As a user, you might need to perform certain steps to precisely determine the cause of failure and repair it immediately.
  Step 1. Check the Dynatrace dashboard for issues and devaitions, such as sudden drop in 
-![screenshot](C:\Users\G3 3579-7581\Desktop\dynatrace\deviations)
+![screenshot](https:C:\Users\G3 3579-7581\Desktop\dynatrace\deviations)
