@@ -16,5 +16,14 @@ This is how it works
  Inefficiences are determined and mitigated.
  
 As a user, you might need to perform certain steps to precisely determine the cause of failure and repair it immediately.
- Step 1. Check the Dynatrace dashboard for issues and devaitions, such as sudden drop in 
+ Step 1. Check the Dynatrace dashboard for  open issues and deviations, such as sudden drop in conversion rate. You can see them
 ![screenshot](https:C:\Users\G3 3579-7581\Desktop\dynatrace\deviations)
+Step 2. By clicking the issue icon, you are moved to the error details screen. It can be figured out easily what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
+       the exact type of error (such as JavaScript error)
+       the error map with a split into application, services and infrastucter as per below pattern
+
+| Tables       |      Affected | Recovered| Monitored|
+|---------  -  |:-------------:|------:   |------:   |
+|Application   |       1       | $1600    |3456789   |
+|Service       |       0       |   $12    |567892    |
+|Infrastructure|       0       |6789023   |51114678  |
