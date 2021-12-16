@@ -17,4 +17,4 @@ This is how it works
  
 As a user, you might need to perform certain steps to precisely determine the cause of failure and repair it immediately.
  Step 1. Check the Dynatrace dashboard for issues and devaitions, such as sudden drop in 
-![Screenshot] (https://www.bimago.pl/obrazy/afrykanskie/afrykanskie-plemie-49210.html?gclid=Cj0KCQiA5OuNBhCRARIsACgaiqUyNjclGMSzxW0KcQtS6tTkD8T9pz-BcXPZO390SkR83nzlJXkBpWkaAtJlEALw_wcB)
+![Screenshot] (https://commons.wikimedia.org/wiki/File:Cat03.jpg)
