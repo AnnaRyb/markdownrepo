@@ -12,7 +12,7 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
   
  ## **Approach**
-  >The Dynatrace platform's user-friendly, AI-powered dashboard replays all steps taken by Ashley and detects suspicious behavior.
+  >The Dynatrace platform's user-friendly, [AI-powered dashboard] (https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) replays all steps taken by Ashley and detects suspicious behavior.
   
   ## **Outcome**
  >Inefficiences are determined and mitigated.
@@ -21,7 +21,7 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
  
 ## **Recommended steps**
 
- **__Step 1__**. Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including:
+ **__Step 1. CHECK THE DASHBOARD__**. Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including:
  * [Problems](https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis)
  * [Smartscape](https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape), with the number of Processes
  * Applications affected
@@ -39,7 +39,7 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
  
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
 
-**__Step 2__**. 
+**__Step 2. FIND OPEN ISSUES__**. 
 By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
 * the error table with a split into application, services and infrastucture as per the pattern below:
 
@@ -57,7 +57,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Business%202impact%20analysis.png)
  
  
- **__Step 3.__** 
+ **__Step 3. FIND THE ERROR__** 
  By drilling this issue further down with clicking on the business analysis impact icon, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
  
  
@@ -91,17 +91,21 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  
- **__Step 4.__** 
- By clicking on the View Full Details button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace and an exact user action that caused the issue.
+ **__Step 4.FIND THE USER__** 
+ By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace and an exact user action that caused the issue.
  
  
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
  
  
- However, since it is a single-page application, we do not know where the command "click on 'btn_sell-421198' " was executed and what it was meant to do. In such scenario, search by a particular user can be performed by returning to the **business impact analysis** icon  and clicking on the **number of impacted users**:
+ ** __NOTE__** Since www.performancewear.com a single-page application, we do not know where the command "click on 'btn_sell-421198' " was executed and what it was meant to do. In such scenario, search by a particular user can be performed by returning to the **business impact analysis** icon  and clicking on the **number of impacted users**:
  
   ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis3.png)
+  
+  
+  **__Step 5. REPLAY THE SESSION__**
+  Find and select the user who raised the issue, find the session affected and replay it for issues:
  
  
  
