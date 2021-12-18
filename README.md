@@ -71,4 +71,9 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Comparison.jpg)
  
  
+ Scroll down to Top 10 JavaScript table to find out new, unknown and 
+ 
+ ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Top%2010%20JavaScript%20errors1.jpg)
+ 
+ 
 
