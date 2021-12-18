@@ -17,7 +17,7 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
   ## **Outcome**
  >Inefficiences are determined and mitigated.
  
-Whenever you face issues with your application, you just need to perform a few steps to precisely determine the cause of failure and repair it immediately.
+## **Recommended steps**
 
  **__Step 1__**. Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including:
  * [Problems](https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis)
