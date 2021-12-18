@@ -55,7 +55,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis.png)
  
  
- **__Step 3__** 
+ **__Step 3.__** 
  By drilling this issue further down with clicking on the business analysis impact icon, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
  
  
@@ -74,6 +74,13 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  Scroll down to Top 10 JavaScript table to find out new, unknown and high-frequency errors, such as the one marked in red: 
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Top%2010%20JavaScript%20errors1.jpg)
+ 
+ 
+ **__Step 4.__** 
+ By clicking on the View Full Details button on the right bottom of the Top 10 JavaScript table, you can view 
+ 
+ 
+ ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
  
  
 
