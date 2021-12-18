@@ -25,14 +25,14 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  * [Problems](https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis)
  * [Smartscape](https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape), with the number of Processes
  * Applications affected
- * [Synthetic Monitors](https://www.dynatrace.com/support/help/how-to-use-dynatrace/synthetic-monitoring)
+ * [Synthetic monitors](https://www.dynatrace.com/support/help/how-to-use-dynatrace/synthetic-monitoring)
  * [Databases'](https://www.dynatrace.com/support/help/how-to-use-dynatrace/databases) condition
- * Application Performance with [Apdex rating](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), the number of JavaScript errors per minute,  and a graph illustrating user actions per minute, including
- [Load Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
-  [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action)
-  and [Custom Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#custom-action)
- * Goal Performance, featuring Conversion Rate for your [Conversion Goals](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/define-conversion-goals) and the number of Completions
- * Apdex Performance 
+ * Application performance with [Apdex rating](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), the number of JavaScript errors per minute,  and a graph illustrating user actions per minute, including
+ [Load actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
+  [XNR actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action)
+  and [Custom actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#custom-action)
+ * Goal performance, featuring Conversion rate for your [Conversion goals](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/define-conversion-goals) and the number of Completions
+ * Apdex performance 
  * Services (Web, Messaging, RMI/Custom)
 
  **In the example below, a particular problem and a sudden drop in conversion rate were identified (marked in red)**
@@ -108,7 +108,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
   
   *  find and select the user who raised the issue on the list ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/user%20search.png)
   
-  *  and  find the session affected and replay the session![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
+  *  find the session affected and replay the session![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
 
 
  **__Step 6. DETERMINE THE ERROR SPECIFICS__**
