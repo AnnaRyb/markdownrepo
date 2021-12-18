@@ -90,12 +90,20 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  **__Step 4.__** 
- By clicking on the View Full Details button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace
- 
+ By clicking on the View Full Details button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace and an exact user action that caused the issue.
  
  
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
+ 
+ 
+ However, since it is single-page application, we do not know where the command 'click on buttton-sell-421198' happened and what it was meant to do. In such scenario, search by  particular user can be performed by returning to the business impact analysis icon and clicking on the number of affected users:
+ 
+  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis3.png)
+ 
+ 
+ 
+ 
  
  
 
