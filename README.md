@@ -62,4 +62,13 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/JavaScript%20Error.png)
+ 
+ 
+ You can also compare JavaScript errors with user actions on a timeline:
+ 
+ 
+ 
+ ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Comparison.jpg)
+ 
+ 
 
