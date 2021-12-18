@@ -12,7 +12,7 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
   
  ## **Approach**
-  >The Dynatrace platform's user-friendly, [AI-powered dashboard] (https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) replays all steps taken by Ashley and detects suspicious behavior.
+  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) replays all steps taken by Ashley and detects suspicious behavior.
   
   ## **Outcome**
  >Inefficiences are determined and mitigated.
