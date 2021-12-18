@@ -58,7 +58,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Business%202impact%20analysis.png)
  
  
- **__Step 3. FIND THE ERROR__** 
+ **__Step 3. FIND THE ERROR/S__** 
  >By drilling this issue further down, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
  
  
@@ -70,7 +70,9 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  
+ 
  >You can also compare JavaScript errors with user actions on a timeline:
+ >
  
  
  
@@ -81,7 +83,9 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  
+ 
  >Scroll down to **Top 10 JavaScript errors** table to find out new, unknown and high-frequency errors, such as the one marked in red: 
+ 
  
  
  
@@ -107,9 +111,9 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
   
   **__Step 5. REPLAY THE SESSION__**
   
-  *  find and select the user who raised the issue on the list ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/user%20search.png)
+  >Find and select the user who raised the issue on the list ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/user%20search.png)
   
-  *  find the session affected and replay the session![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
+  >Find the session affected and replay the session![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
 
 
  **__Step 6. DETERMINE THE ERROR SPECIFICS__**
