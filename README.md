@@ -44,9 +44,9 @@ By clicking on the **Problems** icon, you are transferred to the error details s
 
 | Tables       |      Affected | Recovered| Monitored|
 |------------  |:-------------:|------:   |------:   |
-|Application   |       1       | 16005    |3456789   |
-|Service       |       0       |   128    |567892    |
-|Infrastructure|       0       |6789023   |51114678  |
+|Application   |       1       | -        |    24    |
+|Service       |       0       | -        |    92    |
+|Infrastructure|       0       |6789023   |    46    |
 
 * business impact analysis, showing how many users are impacted:
 
