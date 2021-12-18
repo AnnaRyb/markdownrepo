@@ -104,7 +104,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
  
  
- ** __NOTE__** Since www.performancewear.com a single-page application, we do not know where the command "click on 'btn_sell-421198' " was executed and what it was meant to do in the context of application. In such scenario, the search by a particular user can be performed by returning to the **business impact analysis** icon  and clicking on the **number of impacted users**:
+ **__NOTE__** Since www.performancewear.com a single-page application, we do not know where the command "click on 'btn_sell-421198' " was executed and what it was meant to do in the context of application. In such scenario, the search by a particular user can be performed by returning to the **business impact analysis** icon  and clicking on the **number of impacted users**:
  
   ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis3.png)
   
