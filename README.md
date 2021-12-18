@@ -29,7 +29,7 @@ Whenever you face issues with your application, you just need to perform a few s
  [Load Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
   [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action)
   and [Custom Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#custom-action)
- * Goal Performance, featuring Conversion Rate and the number of Completions
+ * Goal Performance, featuring Conversion Rate for your [Coversion Goals](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/define-conversion-goals) and the number of Completions
  * Apdex Performance 
  * Services (Web, Messaging, RMI/Custom)
 
