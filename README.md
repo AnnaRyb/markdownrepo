@@ -1,7 +1,7 @@
 # Session Replay, an eagle-eyed error detection tool
 
 
-Have you ever wondered if it is possible to detect 	[application](https://https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
+Have you ever wondered if it is possible to detect 	[application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
 >It is now possible with the Session Replay feature.
 >This is how it works.
 
