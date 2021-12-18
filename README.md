@@ -58,7 +58,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  **__Step 3. FIND THE ERROR__** 
- By drilling this issue further down with clicking on the business analysis impact icon, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
+ By drilling this issue further down with clicking on Application Performance card in the Dashboard, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
  
  
  
