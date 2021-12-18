@@ -56,7 +56,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  **__Step 3__** 
- By drilling this issue further down with clicking on the business analysis impact icon, you can learn what the exact type of error you encountered (such as JavaScript error).
+ By drilling this issue further down with clicking on the business analysis impact icon, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
  
  
  
