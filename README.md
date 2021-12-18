@@ -5,16 +5,16 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
 >It is now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that is a  video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions) and their further analysis.
 >>This is how it works. Discover the functionality in only 5 steps.
 
-  **Example scenario**
+  ##**Example scenario**
   >Imagine an online shop, www.performancewear.com that sells clothing and accessories through a single-page application running on Amazon AWS.
   
-  **Problem**
+  ##**Problem**
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
   
-  **Approach**
+ ##**Approach**
   >The Dynatrace platform's user-friendly, AI-powered dashboard replays all steps taken by Ashley and detects suspicious behavior.
   
-  **Outcome**
+  ##**Outcome**
  >Inefficiences are determined and mitigated.
  
 Whenever you face issues with your application, you just need to perform a few steps to precisely determine the cause of failure and repair it immediately.
@@ -97,7 +97,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
  
  
- However, since it is single-page application, we do not know where the command 'click on buttton-sell-421198' happened and what it was meant to do. In such scenario, search by  particular user can be performed by returning to the business impact analysis icon and clicking on the number of affected users:
+ However, since it is a single-page application, we do not know where the command "click on 'btn_sell-421198' " was executed and what it was meant to do. In such scenario, search by a particular user can be performed by returning to the **business impact analysis** icon  and clicking on the **number of impacted users**:
  
   ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis3.png)
  
