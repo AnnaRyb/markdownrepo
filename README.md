@@ -5,16 +5,16 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
 >It is now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that is a  video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions) and their further analysis.
 >>This is how it works. Discover the functionality in only 5 steps.
 
-  ##**Example scenario**
+  ## **Example scenario**
   >Imagine an online shop, www.performancewear.com that sells clothing and accessories through a single-page application running on Amazon AWS.
   
-  ##**Problem**
+  ## **Problem**
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
   
- ##**Approach**
+ ## **Approach**
   >The Dynatrace platform's user-friendly, AI-powered dashboard replays all steps taken by Ashley and detects suspicious behavior.
   
-  ##**Outcome**
+  ## **Outcome**
  >Inefficiences are determined and mitigated.
  
 Whenever you face issues with your application, you just need to perform a few steps to precisely determine the cause of failure and repair it immediately.
