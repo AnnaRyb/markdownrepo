@@ -2,7 +2,7 @@
 
 
 Have you ever wondered if it is possible to detect 	[application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
->It is now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that retrieves entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session) consisting of related [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions), in the form of video recording.
+>It is now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that is a  video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions) and their further analysis.
 >>This is how it works.
 
   **Example scenario**
@@ -36,9 +36,10 @@ Whenever you face issues with your application, you just need to perform a few s
  <In the example below, a single problem as well as a sudden drop in conversion rate were identified.
  
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
-**__Step 2__**. By clicking on the issue icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
+**__Step 2__**. 
+<By clicking on the issue icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
        * the exact type of error (such as JavaScript error)
-       * the error map with a split into application, services and infrastucter as per below pattern
+       * the error map with a split into application, services and infrastucture as per below pattern
 
 | Tables       |      Affected | Recovered| Monitored|
 |------------  |:-------------:|------:   |------:   |
