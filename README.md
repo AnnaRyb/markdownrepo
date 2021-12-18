@@ -1,4 +1,4 @@
-# Session Replay Tutorial 
+# Session replay tutorial 
 
 
 Have you ever wondered if it's possible to detect [application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
