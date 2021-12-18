@@ -21,15 +21,17 @@ Whenever you face issues with your application, you just need to perform a few s
 
  **__Step 1__**. Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including, among others:
  * Problems
- * Smartscape
+ * Smartscape, with the number of Processes
  * Applications
  * Synthetic Monitors
  * Databases
- * Application Performance with [Apdex rating](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), JavaScript errors,  and a graph illustrating user actions per minute, including
+ * Application Performance with [Apdex rating](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), the number of JavaScript errors per minute,  and a graph illustrating user actions per minute, including
  [Load Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
-  [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action),
- [Custom Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#custom-action)
- * Goal Performance
+  [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action)
+  and [Custom Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#custom-action)
+ * Goal Performance, featuring Conversion Rate and the number of Completions
+ * Apdex Performance 
+ * Services (Web, Messaging, RMI/Custom)
 
  <In the example below, a single problem as well as a sudden drop in conversion rate were identified.
  
