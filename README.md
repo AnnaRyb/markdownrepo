@@ -19,12 +19,12 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
  
 Whenever you face issues with your application, you just need to perform a few steps to precisely determine the cause of failure and repair it immediately.
 
- **__Step 1__**. Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including, among others:
- * Problems
- * Smartscape, with the number of Processes
- * Applications
- * Synthetic Monitors
- * Databases
+ **__Step 1__**. Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including:
+ * [Problems] (https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis)
+ * [Smartscape] (https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape), with the number of Processes
+ * Applications affected
+ * [Synthetic Monitors] (https://www.dynatrace.com/support/help/how-to-use-dynatrace/synthetic-monitoring)
+ * [Databases'](https://www.dynatrace.com/support/help/how-to-use-dynatrace/databases) condition
  * Application Performance with [Apdex rating](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), the number of JavaScript errors per minute,  and a graph illustrating user actions per minute, including
  [Load Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
   [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action)
