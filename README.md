@@ -5,7 +5,7 @@ Have you ever wondered if it is possible to detect application flaws in a split 
 This is how it works.
 
   **Example scenario**
-  >Imagine an online shop, [Performancewear] (www.performancewear.com) that sells clothing and accessories through a single-page application running on Amazon AWS.
+  >Imagine an online shop, [Performance Wear] (https://www.performancewear.com) that sells clothing and accessories through a single-page application running on Amazon AWS.
   
   **Problem**
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite several trials. 
