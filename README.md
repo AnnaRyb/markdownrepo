@@ -25,9 +25,9 @@ Whenever you face issues with your application, you just need to perform a few s
  * Applications
  * Synthetic Monitors
  * Databases
- * Application Performance with -[Apdex ratings](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), user actions per minute, such as 
+ * Application Performance with - [Apdex ratings](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), user actions per minute, such as 
  -[Load Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
- - [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action),
+  [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action),
  [Custom Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#custom-action)
  * Goal Performance
 
