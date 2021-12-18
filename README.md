@@ -2,7 +2,7 @@
 
 
 Have you ever wondered if it is possible to detect 	[application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
->It is now possible with the Session Replay feature.
+>It is now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that retrieves entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session) or, in other words, all related [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions).
 >This is how it works.
 
   **Example scenario**
