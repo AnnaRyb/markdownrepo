@@ -64,20 +64,35 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/JavaScript%20Error.png)
  
  
+ 
+ 
+ 
  You can also compare JavaScript errors with user actions on a timeline:
+ 
  
  
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Comparison.jpg)
  
  
+ 
+ 
+ 
  Scroll down to Top 10 JavaScript table to find out new, unknown and high-frequency errors, such as the one marked in red: 
+ 
+ 
+ 
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Top%2010%20JavaScript%20errors1.jpg)
  
  
+ 
+ 
+ 
  **__Step 4.__** 
- By clicking on the View Full Details button on the right bottom of the Top 10 JavaScript table, you can view 
+ By clicking on the View Full Details button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace
+ 
+ 
  
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
