@@ -41,7 +41,7 @@ Whenever you face issues with your application, you just need to perform a few s
 
 
 **__Step 2__**. 
-By clicking on the Problems icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
+By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
 * the exact type of error (such as JavaScript error)
 * the error map with a split into application, services and infrastucture as per below pattern
 
