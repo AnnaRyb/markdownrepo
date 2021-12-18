@@ -113,7 +113,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
 
  **__Step 6. DETERMINE THE ERROR SPECIFICS__**
  *  in your session movie, you can find the exact moment and field where issue occurred:
- ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
+ ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Postal%20code.png) 
  
  
  
