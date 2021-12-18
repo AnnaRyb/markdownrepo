@@ -52,7 +52,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
 
 
 
- ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis.png)
+ ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Business%202impact%20analysis.png)
  
  
  **__Step 3.__** 
