@@ -15,7 +15,7 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
   >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, retrieves all steps taken by Ashley and finds out why application froze.
   
   ## **Outcome**
- >Inefficiences are determined and mitigated.
+ >Inefficiencies are determined and mitigated.
 
 
  
