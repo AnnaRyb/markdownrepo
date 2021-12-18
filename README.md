@@ -29,7 +29,7 @@ Whenever you face issues with your application, you just need to perform a few s
  [Load Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
   [XNR Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#xhr-action)
   and [Custom Actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#custom-action)
- * Goal Performance, featuring Conversion Rate for your [Coversion Goals](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/define-conversion-goals) and the number of Completions
+ * Goal Performance, featuring Conversion Rate for your [Conversion Goals](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/define-conversion-goals) and the number of Completions
  * Apdex Performance 
  * Services (Web, Messaging, RMI/Custom)
 
@@ -51,5 +51,6 @@ By clicking on the Problems icon, you are transferred to the error details scree
 |Service       |       0       |   128    |567892    |
 |Infrastructure|       0       |6789023   |51114678  |
 
-
+        * business impact analysis, showing how many users are affected:
+        ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis.png)
 
