@@ -52,5 +52,5 @@ By clicking on the Problems icon, you are transferred to the error details scree
 |Infrastructure|       0       |6789023   |51114678  |
 
         * business impact analysis, showing how many users are affected:
-        ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis.png)
+ ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis.png)
 
