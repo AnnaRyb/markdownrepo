@@ -51,7 +51,7 @@ By clicking on the Problems icon, you are transferred to the error details scree
 |Service       |       0       |   128    |567892    |
 |Infrastructure|       0       |6789023   |51114678  |
 
-* business impact analysis, showing how many users are affected:
+* business impact analysis, showing how many users are impacted:
 
 
 
