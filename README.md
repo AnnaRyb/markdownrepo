@@ -39,9 +39,9 @@ Whenever you face issues with your application, you just need to perform a few s
 
 **__Step 2__**. 
 By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
-* the error map with a split into application, services and infrastucture as per below pattern
+* the error table with a split into application, services and infrastucture as per the pattern below:
 
-| Tables       |      Affected | Recovered| Monitored|
+| Items        |      Affected | Recovered| Monitored|
 |------------  |:-------------:|------:   |------:   |
 |Application   |       1       |   -      |    24    |
 |Service       |       0       |   -      |    92    |
@@ -56,7 +56,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  **__Step 3__** 
- By drilling the issue down with clicking on the above business analysis impact, you can learn what the exact type of error you encountered (such as JavaScript error).
+ By drilling this issue further down with clicking on the business analysis impact icon, you can learn what the exact type of error you encountered (such as JavaScript error).
  
  
  
