@@ -41,7 +41,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
 
 **__Step 2. INVESTIGATE OPEN ISSUES__**. 
-By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
+>By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
 * the error table with a split into application, services and infrastucture as per the pattern below:
 
 | Items        |      Affected | Recovered| Monitored|
@@ -59,7 +59,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  **__Step 3. FIND THE ERROR__** 
- By drilling this issue further down, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
+ >By drilling this issue further down, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
  
  
  
@@ -70,7 +70,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  
- You can also compare JavaScript errors with user actions on a timeline:
+ >You can also compare JavaScript errors with user actions on a timeline:
  
  
  
@@ -81,7 +81,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  
- Scroll down to **Top 10 JavaScript errors** table to find out new, unknown and high-frequency errors, such as the one marked in red: 
+ >Scroll down to **Top 10 JavaScript errors** table to find out new, unknown and high-frequency errors, such as the one marked in red: 
  
  
  
@@ -93,7 +93,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  **__Step 4.FIND THE USER__** 
- By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace and an **exact user action that caused the issue**.
+ >By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace and an **exact user action that caused the issue**.
  
  
  
@@ -113,7 +113,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
 
 
  **__Step 6. DETERMINE THE ERROR SPECIFICS__**
- *  in your session movie, you can find the exact moment and field where issue occurred:
+ >In the user's session's movie, you can find the exact moment and field where issue occurred:
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Postal%20code.png) 
  
  
