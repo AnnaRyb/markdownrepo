@@ -1,9 +1,9 @@
-# Session Replay, an eagle-eyed error detection tool
+# Session Replay Tutorial for an accurate and early error detection.
 
 
 Have you ever wondered if it is possible to detect 	[application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
 >It is now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that is a  video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions) and their further analysis.
->>This is how it works.
+>>This is how it works. Discover the functionality in only 5 steps.
 
   **Example scenario**
   >Imagine an online shop, www.performancewear.com that sells clothing and accessories through a single-page application running on Amazon AWS.
@@ -36,9 +36,6 @@ Whenever you face issues with your application, you just need to perform a few s
  **In the example below, a particular problem and a sudden drop in conversion rate were identified (marked in red)**
  
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
-
-
-
 
 **__Step 2__**. 
 By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
