@@ -5,7 +5,7 @@ Have you ever wondered if it is possible to detect application flaws in a split 
 This is how it works.
 
   **Example scenario**
-  >Imagine an online shop, www.performancewear.com that sells clothing and accessories through a single-page application running on Amazon AWS.
+  >Imagine an online shop, [Performancewear] (www.performancewear.com) that sells clothing and accessories through a single-page application running on Amazon AWS.
   
   **Problem**
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite several trials. 
@@ -16,7 +16,7 @@ This is how it works.
   **Outcome**
  >Inefficiences are determined and mitigated.
  
-Whenever you suspect that an error occurred, you just need to perform a few steps to precisely determine the cause of failure and repair it immediately.
+Whenever you face issues with your application, you just need to perform a few steps to precisely determine the cause of failure and repair it immediately.
 
  **__Step 1__**. Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including
  * Problems
@@ -25,12 +25,13 @@ Whenever you suspect that an error occurred, you just need to perform a few step
  * Synthetic Monitors
  * Databases
  * Application Performance
- *  Goal Performance
- In the example below, one problem and a sudden drop in conversion rate were identified.
+ * Goal Performance
+ <In the example below, a single problem as well as a sudden drop in conversion rate were identified.
+ 
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
-Step 2. By clicking the issue icon, you are moved to the error details screen. It can be figured out easily what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
-       the exact type of error (such as JavaScript error)
-       the error map with a split into application, services and infrastucter as per below pattern
+**__Step 2__**. By clicking on the issue icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
+       * the exact type of error (such as JavaScript error)
+       * the error map with a split into application, services and infrastucter as per below pattern
 
 | Tables       |      Affected | Recovered| Monitored|
 |------------  |:-------------:|------:   |------:   |
@@ -39,8 +40,4 @@ Step 2. By clicking the issue icon, you are moved to the error details screen. I
 |Infrastructure|       0       |6789023   |51114678  |
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
