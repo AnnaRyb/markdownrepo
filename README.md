@@ -33,7 +33,7 @@ Whenever you face issues with your application, you just need to perform a few s
  * Apdex Performance 
  * Services (Web, Messaging, RMI/Custom)
 
- **In the example below, a single problem as well as a sudden drop in conversion rate were identified (marked in red)**
+ **In the example below, a particular problem and a sudden drop in conversion rate were identified (marked in red)**
  
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
 
