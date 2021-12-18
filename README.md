@@ -1,8 +1,8 @@
 # Session Replay Tutorial for an accurate and early error detection.
 
 
-Have you ever wondered if it is possible to detect 	[application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
->It is now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that is a  video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions) and their further analysis.
+Have you ever wondered if it's possible to detect [application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
+>It's now possible with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature that is a  video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions) and their further analysis.
 >>This is how it works. Discover the functionality in only 7 steps.
 
   ## **Example scenario**
@@ -12,7 +12,7 @@ Have you ever wondered if it is possible to detect 	[application](https://www.dy
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
   
  ## **Approach**
-  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, retrieves all steps taken by Ashley and finds out why application froze.
+  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, enables the user to retrieve all steps taken by Ashley and find out why application froze.
   
   ## **Outcome**
  >Inefficiencies are determined and mitigated.
@@ -58,7 +58,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  
  
  **__Step 3. FIND THE ERROR__** 
- By drilling this issue further down with clicking on Application Performance card in the Dashboard, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
+ By drilling this issue further down, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
  
  
  
@@ -99,7 +99,7 @@ By clicking on the **Problems** icon, you are transferred to the error details s
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
  
  
- ** __NOTE__** Since www.performancewear.com a single-page application, we do not know where the command "click on 'btn_sell-421198' " was executed and what it was meant to do in the context of application. In such scenario, search by a particular user can be performed by returning to the **business impact analysis** icon  and clicking on the **number of impacted users**:
+ ** __NOTE__** Since www.performancewear.com a single-page application, we do not know where the command "click on 'btn_sell-421198' " was executed and what it was meant to do in the context of application. In such scenario, the search by a particular user can be performed by returning to the **business impact analysis** icon  and clicking on the **number of impacted users**:
  
   ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis3.png)
   
@@ -108,7 +108,12 @@ By clicking on the **Problems** icon, you are transferred to the error details s
   
   *  find and select the user who raised the issue on the list ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/user%20search.png)
   
-  *  and  find the session affected and replay the session![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis3.png) 
+  *  and  find the session affected and replay the session![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
+
+
+ **__Step 6. DETERMINE THE ERROR SPECIFICS__**
+ *  in your session movie, you can find the exact moment and field where issue occurred:
+ ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
  
  
  
