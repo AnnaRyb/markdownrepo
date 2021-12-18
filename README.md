@@ -122,6 +122,10 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  
+ ##**[Watch the video tutorial at] (https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)**
+ 
+ 
+ 
  
  
  
