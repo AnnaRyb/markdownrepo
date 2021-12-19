@@ -55,7 +55,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  ### **__Step 3. Find new errors__** 
- >By  drilling this issue further down, you can learn what type of problem was encountered. It is reflected in JavaScript error increase. 
+ >By  drilling this issue further down, you can learn what types of problems were encountered. The situation is illustrated by the JavaScript error increase. 
  
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/JavaScript%20Error.png)
@@ -73,7 +73,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  
- >Scroll down to **Top 10 JavaScript errors** table to find out new, unknown and high-frequency errors, such as the one marked in red: 
+ >Scroll down to **Top 10 JavaScript errors** table to find out **new, unknown and high-frequency errors**, such as the one marked in red: 
  
  
  
@@ -86,14 +86,16 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  * page occurence, 
  * error message, 
  * stacktrace,
- * **exact user action that caused the issue** in the form of executed command.
+ * **exact user action that caused the issue** in the form of the command that was executed.
  [Details on the JavaScript error analysis can be found here.](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/source-map-support-for-javascript-error-analysis)
  
  
  
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/User%20action.png)
  
- **__NOTE:__** Since www.performancewear.com a single-page application, you don't know where the command "click on 'btn_sell-421198' " was executed and what actions it was meant to take. Therefore, further research is required.
+ However, identifying the **exact user action that caused the issue** might not be sufficient in cases.
+ 
+ **__NOTE:__** Since www.performancewear.com a single-page application, you don't know where the command "click on 'btn_sell-421198' " was executed and what actions it was meant to perform. Therefore, further research is required.
   
   
   ### **__Step 5. Find the specific user/users impacted and replay the session__**
