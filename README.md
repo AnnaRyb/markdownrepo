@@ -21,7 +21,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
  
  
-## **__Recommended steps__** h1
+## **__Recommended steps__** 
 
 
 
@@ -130,7 +130,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  ## In this section
 
-1. [Section 1](#h1)
+1. [Section 1](### **__Recommended steps__**)
 2. [Section 2](#section-2)
     - [Subsection a](#subsection-a)
     - [Subsection b](#subsection-b)
