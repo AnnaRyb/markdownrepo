@@ -46,7 +46,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
 ### **__Step 2. Investigate open issues__**. 
 >By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what items are affected (for example, the drill-down functionality, and the impact area, such as main page). It also offers:
-* error status table within three main categories:
+* error status table within three main categories. Here, it states clearly the issue is within Application.
 
 | Items        |      Affected | Recovered| Monitored|
 |------------  |:-------------:|:--------:|:--------:|
