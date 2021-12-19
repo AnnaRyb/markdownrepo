@@ -21,7 +21,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
  
  
-## **Recommended steps**
+## **Recommended steps **
 
 
 
