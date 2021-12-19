@@ -50,7 +50,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 |Service       |       0       |   -      |    92    |
 |Infrastructure|       0       |   12     |    46    |
 
-* business impact analysis, showing how many users are impacted:
+* business impact analysis, showing how many users are affected:
 
 
 
