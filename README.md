@@ -131,11 +131,15 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  ## In this section
 
 1. [Recommended steps](#Recommended-steps)
-    - [Step 1](#Step-1.Check-the-dashboard)
-    - [Subsection b](#Step 1.-Check-the-dashboard)
-3. [Tutorial video](#Watch-the-tutorial-video)
-    - [Subsection a](#subsection-a)
-    - [Subsection b](#subsection-b)
+    - [Step 1. Check the dashboard](#Step-1.Check-the-dashboard)
+    - [Step 2. Investigate open issues](#Step-2.Investigate-open-issues)
+    - [Step 3. Find new errors](#Step-3.Find-new-errors)
+    - [Step 4. Find error details](#Step-4.Find-error-details)
+    - [Step 5. Find specific user/users impacted and replay the session](#Step-5.Find-specific-user/users-impacted-and-replay-the-session)
+    - [Step 6. Find where and why an error occured](#Step-6.Find-where-and-why-an-error-occured)
+    - 
+2. [Tutorial video](#Watch-the-tutorial-video)
+    
  
  
  
