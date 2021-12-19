@@ -128,6 +128,11 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  ## **[Watch the video tutorial](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)** 
  
  
+ 
+ ## Related topics
+ [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay)
+ 
+ 
  ## In this section
 
 1. [Recommended steps](#Recommended-steps)
