@@ -1,4 +1,4 @@
-#  Session replay feature. See what your users do.
+#  Session replay feature. See what your users do. #h1
 
 
 Have you ever wondered if it's possible to detect [application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
@@ -130,7 +130,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  ## In this section
 
-1. [Section 1](# **__Recommended steps__**)
+1. [Section 1](#h1)
 2. [Section 2](#section-2)
     - [Subsection a](#subsection-a)
     - [Subsection b](#subsection-b)
