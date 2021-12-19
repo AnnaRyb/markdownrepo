@@ -12,7 +12,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
   
  ## **Approach**
-  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues within application. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, enables the user to retrieve all steps taken by Ashley and find out why application froze.
+  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues within application. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, enables the user to retrieve all steps taken by Ashley and find out why the application froze.
   
   ## **Outcome**
  >Inefficiencies are determined and mitigated.
