@@ -86,7 +86,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
 
  
- ### **__Step 4. Find error details**.
+ ### **__Step 4. Find error details__**.
  >By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as: 
  * page occurence, 
  * error message, 
