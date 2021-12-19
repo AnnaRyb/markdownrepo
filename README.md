@@ -125,13 +125,15 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
  > Session Replay's short movie is the best illustration of a customer journey, with every step she/he takes before and after an incident happens.
  
- **[Watch the video tutorial](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)** 
+ **[Watch the tutorial video](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)** 
  
  
  ## In this section
 
 1. [Recommended steps](#Recommended-steps)
-2. [Section 2](#section-2)
+    - [Step 1](# #Step 1.-Check-the-dashboard)
+    - [Subsection b](#Step 1.-Check-the-dashboard)
+3. [Tutorial video](#Watch-the-tutorial-video)
     - [Subsection a](#subsection-a)
     - [Subsection b](#subsection-b)
  
