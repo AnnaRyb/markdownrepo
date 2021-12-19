@@ -1,4 +1,4 @@
-#  See what your users see with the Session replay feature
+#  Session replay feature. See what your users do.
 
 
 Have you ever wondered if it's possible to detect [application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
