@@ -115,7 +115,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
   > Find the affected session and click the **Replay** button![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
 
 
- ### **__Step 6. Find where and why an error occured __**.
+   ### **__Step 6. Find where and why an error occured__**.
  >In the user's session's recording, you can detect the exact moment when issue was faced by the user and a specific field impacted:
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Postal%20code.png) 
  
