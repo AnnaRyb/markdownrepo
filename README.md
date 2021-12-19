@@ -23,7 +23,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
 | Action       |      Affected | Recovered| Monitored|
 |------------  |:-------------:|------:   |------:   |
-|[Step1](### **__Step 1. CHECK THE DASHBOARD__**.)        |       1       |   -      |    24    |
+|[Step1](# **__Step 1. CHECK THE DASHBOARD__**.)        |       1       |   -      |    24    |
 |Step 2        |       0       |   -      |    92    |
 |Step 3        |
 
