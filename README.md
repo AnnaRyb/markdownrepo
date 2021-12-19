@@ -88,10 +88,11 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  ### **__Step 4. Find error details__**.
  >By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as: 
- * page occurence, 
- * error message, 
- * stacktrace,
+ * page occurence. 
+ * error message. 
+ * stacktrace.
  * **exact user action that caused the issue** in the form of the command that was executed.
+ 
  [Source map for JavaScript error analysis](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/source-map-support-for-javascript-error-analysis)
  
  
