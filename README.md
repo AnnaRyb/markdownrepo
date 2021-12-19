@@ -13,10 +13,10 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsive despite corrections and webpage reloads. 
   
  ## **Approach**
-  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues within application. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, retrieves all steps taken by Ashley and find out why the application froze.
+  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues within application. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, retrieves all steps taken by Ashley and finds out why the application froze.
   
  ## **Outcome**
- >Inefficiencies are determined and mitigated.
+ >Inefficiencies are determined and can be mitigated.
 
 
  
@@ -87,12 +87,12 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
  
  ### **__Step 4. Find error details__**.
- >By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as: 
+ >By clicking on the **View Full Details** button on the right bottom of the **Top 10 JavaScript table**, you can view such error details as: 
  * page occurence. 
  * error message. 
  * stacktrace.
  * **exact user action that caused the issue** in the form of the command that was executed.
- 
+  
  [Source map for JavaScript error analysis](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/source-map-support-for-javascript-error-analysis)
  
  
@@ -101,7 +101,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  However, identifying the **exact user action that caused the issue** might not be sufficient in some cases.
  
- **__NOTE:__** Since www.performancewear.com a single-page application, you don't know where the command "click on 'btn_sell-421198' " was executed and what actions it was meant to perform. Therefore, further research is required.
+ **__NOTE:__** Since www.performancewear.com a single-page application, you don't know where the command "**click on 'btn_sell-421198'** " was executed and what actions it was meant to perform. Therefore, further research is required.
   
   
   ### **__Step 5. Find specific user/users impacted and replay the session__**.
