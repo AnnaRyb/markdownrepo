@@ -123,7 +123,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  >In this case, Ashley inserted her postal code in an invalid format for the selected country field, prompting a loading indicator that did not dissappear and blocked user to advance to the next step. The recording shows Ashley's numerous attemps to continue after correcting the code, then filling in the form again, and finally quitting the application.
  >  Session Replay's short movie is the best illustration of customer journey, with every step she/he takes before and after an incident happens.
  
- ##**[Watch the video tutorial at](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)**
+ ## **[Watch the video tutorial at](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)**
  
  
  
