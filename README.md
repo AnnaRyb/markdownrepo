@@ -7,13 +7,13 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 >>Find out how Session replay works. Discover the functionality in only 6 steps and capture any type of issues in less than 5 minutes.
 
 ## **Example scenario**
-  >Imagine an online shop, www.performancewear.com,  selling clothing and accessories through a single-page application running on Amazon AWS.
+  >Imagine an online shop, www.performancewear.com, offering clothing and accessories through a single-page application running on Amazon AWS.
   
 ## **Problem**
-  >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
+  >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsive despite corrections and webpage reloads. 
   
  ## **Approach**
-  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues within application. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, enables the user to retrieve all steps taken by Ashley and find out why the application froze.
+  >The Dynatrace platform's user-friendly, [AI-powered dashboard](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dashboards-and-charts) identifies issues within application. However, the user action that led to an error does not explain what exactly happened. Session replay, in turn, retrieves all steps taken by Ashley and find out why the application froze.
   
  ## **Outcome**
  >Inefficiencies are determined and mitigated.
@@ -40,7 +40,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  * [Apdex performance ](https://en.wikipedia.org/wiki/Apdex).
  * Services (Web, Messaging, RMI/Custom).
 
- **In the example below, a particular problem and a sudden drop in conversion rate were identified (marked in red)**
+ **In the example below, one problem, JavaScript errors and a sudden drop in conversion rate were identified (marked in red)**
  
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
 
