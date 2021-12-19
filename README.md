@@ -2,8 +2,9 @@
 
 
 Have you ever wondered if it's possible to detect [application](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/applications) flaws in a split second? 
->It can be achieved with the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) feature, which is a  video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions), designed for error analysis.
->>Find out how it works. Discover the functionality in only 6 steps and capture any types of issues in less than 5 minutes.
+>It can be achieved thanks to the [Session Replay](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/session-replay) function, which offers a video recording from the entire [user session](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-session), formed as a sequence of [user actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions) performed on your application, including those leading to errors.
+
+>>Find out how Session replay works. Discover the functionality in only 6 steps and capture any type of issues in less than 5 minutes.
 
 ## **Example scenario**
   >Imagine an online shop, www.performancewear.com,  selling clothing and accessories through a single-page application running on Amazon AWS.
