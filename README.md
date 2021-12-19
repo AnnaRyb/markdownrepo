@@ -130,7 +130,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  ## In this section
 
-1. [Recommended steps](#**__Recommended-steps__** )
+1. [Recommended steps](#Recommended-steps)
 2. [Section 2](#section-2)
     - [Subsection a](#subsection-a)
     - [Subsection b](#subsection-b)
