@@ -42,7 +42,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
  **In the example below, one problem, JavaScript errors and a sudden drop in conversion rate were identified (marked in red)**
  
-![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
+![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations%20final.png)
 
 ### **__Step 2. Investigate open issues__**. 
 >By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what items are affected (for example, the drill-down functionality, and the impact area, such as main page). It also offers:
