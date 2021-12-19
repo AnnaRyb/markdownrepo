@@ -106,13 +106,13 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
   ### **__Step 5. Find specific user/users impacted and replay the session__**.
   
   
-  >* In order to find more details about the user and actions performed, get back to the **Business impact analysis** icon and click on the **Number of impacted users**:
+  > In order to find more details about the user and actions performed, get back to the **Business impact analysis** icon and click on the **Number of impacted users**:
   
   ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/business%20impact%20analysis3.png)
   
-  >* Find and select the user who raised the issue from the list ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/user%20search.png)
+  > Find and select the user who raised the issue from the list ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/user%20search.png)
   
-  >* Find the affected session and click the **Replay** button![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
+  > Find the affected session and click the **Replay** button![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
 
 
  ### **__Step 6. Find where and why an error occured __**.
