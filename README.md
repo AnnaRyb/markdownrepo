@@ -120,7 +120,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  >In the user's session's recording, you can find the exact moment and field where issue occurred:
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Postal%20code.png) 
  
- >In this case, Ashley inserted the postal code in an invalid format for the selected country field, prompting a loading indicator that did not dissappear and blocked user to advance to the next step. The recording shows Ashley's numerous attempts to continue after correcting the postal code, then filling in the form again, and finally quitting the application.
+ >In this case, Ashley inserted the postal code in an invalid format for the selected country field, prompting a loading indicator that did not dissappear and blocked the  advance to the next step. The recording shows Ashley's numerous attempts to continue after correcting the postal code, then filling in the form again, and finally quitting the application.
  > Session Replay's short movie is the best illustration of customer journey, with every step she/he takes before and after an incident happens.
  
  ## **[Watch the video tutorial](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)**
