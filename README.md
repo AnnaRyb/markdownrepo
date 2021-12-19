@@ -131,7 +131,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  ## In this section
 
 1. [Recommended steps](#Recommended-steps)
-2. [Tutorial video](#Watch-the-video-tutorial)
+2. [Video tutorial](#Watch-the-video-tutorial)
     
  
  
