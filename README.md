@@ -30,7 +30,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  * [Problems](https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis).
  * [Smartscape](https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape), with the number of Processes.
  * Applications affected.
- * [Synthetic monitors.](https://www.dynatrace.com/support/help/how-to-use-dynatrace/synthetic-monitoring).
+ * [Synthetic monitors](https://www.dynatrace.com/support/help/how-to-use-dynatrace/synthetic-monitoring).
  * [Databases'](https://www.dynatrace.com/support/help/how-to-use-dynatrace/databases) condition.
  * Application performance with [Apdex rating](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/ratings/apdex-ratings), the number of JavaScript errors per minute,  and a graph illustrating user actions per minute, including
  [Load actions](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/basic-concepts/user-actions#load-action), 
