@@ -21,7 +21,18 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
 ## **Recommended steps**
 
- **__Step 1. CHECK THE DASHBOARD__**. 
+| Action       |      Affected | Recovered| Monitored|
+|------------  |:-------------:|------:   |------:   |
+|[Step1](### **__Step 1. CHECK THE DASHBOARD__**)        |       1       |   -      |    24    |
+|Step 2        |       0       |   -      |    92    |
+|Step 3        |
+
+|Step 4|       0       |   12     |    46    |
+
+
+
+
+  ### **__Step 1. CHECK THE DASHBOARD__**. 
  >Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including:
  * [Problems](https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis)
  * [Smartscape](https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape), with the number of Processes
@@ -58,7 +69,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Business%202impact%20analysis.png)
  
  
- **__Step 3. FIND THE ERROR/S__** 
+ **__Step 3. FIND THE ERRORS__** 
  >By drilling this issue further down, you can learn what type of issue was encountered, such as JavaScript error increase.
  
  
