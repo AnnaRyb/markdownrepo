@@ -78,7 +78,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  
- >Scroll down to **Top 10 JavaScript errors** table to find out **new, unknown and high-frequency errors**, such as the one marked in red: 
+ >Scroll down to the **Top 10 JavaScript errors** table to find out **new, unknown and high-frequency errors**, such as the one marked in red: 
  
  
  
