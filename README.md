@@ -6,7 +6,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 >>Find out how it works. Discover the functionality in only 6 steps and capture any types of issues in less than 5 minutes.
 
   ## **Example scenario**
-  >Imagine an online shop, www.performancewear.com that sells clothing and accessories through a single-page application running on Amazon AWS.
+  >Imagine an online shop, www.performancewear.com,  selling clothing and accessories through a single-page application running on Amazon AWS.
   
   ## **Problem**
   >Ashley is a client who was trying to place her order via website form but was unable to complete her transaction. After filling in a few fields, she found out that the system  froze and remained unresponsible despite corrections and webpage reloads. 
