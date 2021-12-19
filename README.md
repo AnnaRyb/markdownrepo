@@ -21,7 +21,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
  
  
-## **__Recommended steps__**
+## **__Recommended steps__** h1
 
 
 
@@ -126,6 +126,14 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  > Session Replay's short movie is the best illustration of a customer journey, with every step she/he takes before and after an incident happens.
  
  **[Watch the video tutorial](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)** 
+ 
+ 
+ ## In this section
+
+1. [Section 1](#h1)
+2. [Section 2](#section-2)
+    - [Subsection a](#subsection-a)
+    - [Subsection b](#subsection-b)
  
  
  
