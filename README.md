@@ -96,7 +96,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  
- **__Step 4.FIND THE USER__** 
+ **__Step 4. FIND THE USER__** 
  >By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as page occurence, error message, stacktrace and an **exact user action that caused the issue**.
  
  
@@ -117,10 +117,11 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
 
  **__Step 6. DETERMINE THE ERROR SPECIFICS__**
- >In the user's session's movie, you can find the exact moment and field where issue occurred:
+ >In the user's session's recording, you can find the exact moment and field where issue occurred:
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Postal%20code.png) 
  
- 
+ >In this case, Ashley inserted her postal code in an invalid format for the selected country field, prompting a loading indicator that did not dissappear and blocked user to advance to the next step. The recording shows Ashley's numerous attemps to continue after correcting the code, then filling in the form again, and finally quitting the application.
+ >  Session Replay's short movie is the best illustration of customer journey, with every step she/he takes before and after an incident happens.
  
  ##**[Watch the video tutorial at](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)**
  
