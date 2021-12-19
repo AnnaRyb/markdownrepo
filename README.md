@@ -113,7 +113,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
   
   >Find and select the user who raised the issue on the list ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/user%20search.png)
   
-  >Find the session affected and replay the session![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
+  >Find the affected session and click the **Replay** button![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
 
 
  **__Step 6. DETERMINE THE ERROR SPECIFICS__**
