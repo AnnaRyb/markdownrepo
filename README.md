@@ -59,7 +59,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
  
  **__Step 3. FIND THE ERROR/S__** 
- >By drilling this issue further down, you can learn what the exact type of issue was encountered, such as JavaScript error increase.
+ >By drilling this issue further down, you can learn what type of issue was encountered, such as JavaScript error increase.
  
  
  
