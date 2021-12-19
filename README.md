@@ -22,12 +22,12 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 ## **Recommended steps**
 
 
-[# **__Step 1. CHECK THE DASHBOARD__**.](Step 1)
+[create an anchor](### **__Step 1. CHECK THE DASHBOARD__**.)
 
 
 
 
-  **__Step 1. CHECK THE DASHBOARD__**. 
+ ### **__Step 1. CHECK THE DASHBOARD__**. 
  >Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including:
  * [Problems](https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis)
  * [Smartscape](https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape), with the number of Processes
