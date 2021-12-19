@@ -22,7 +22,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 ## **Recommended steps**
 
 
-[create an anchor](### **__Step 1. CHECK THE DASHBOARD__**.)
+[create an anchor](# **__Step 1. CHECK THE DASHBOARD__**.)
 
 
 
