@@ -21,13 +21,8 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
 ## **Recommended steps**
 
-| Action       |      Affected | Recovered| Monitored|
-|------------  |:-------------:|------:   |------:   |
-|[Step1](# **__Step 1. CHECK THE DASHBOARD__**.)        |       1       |   -      |    24    |
-|Step 2        |       0       |   -      |    92    |
-|Step 3        |
 
-|Step 4|       0       |   12     |    46    |
+[Step1](# **__Step 1. CHECK THE DASHBOARD__**.)
 
 
 
