@@ -19,8 +19,12 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 
 
  
-## **Recommended steps**
-### **__Step 1. Check the dasboard__**. 
+ 
+### **Recommended steps**
+
+
+
+#### **__Step 1. Check the dasboard__**. 
  >Check the Dynatrace dashboard for open issues and deviations. You can see critical areas organized into themed cards, including:
  * [Problems](https://www.dynatrace.com/support/help/how-to-use-dynatrace/problem-detection-and-analysis)
  * [Smartscape](https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape), with the number of Processes
@@ -39,7 +43,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
 ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Deviations_.jpg)
 
-### **__Step 2. Investigate open issues__**. 
+#### **__Step 2. Investigate open issues__**. 
 >By clicking on the **Problems** icon, you are transferred to the error details screen. It can be figured out what exact item is affected (for example, the drill-down functionality, and the impact area, such as main page). Other information include:
 * the error table with a split into application, services and infrastucture as per the pattern below:
 
@@ -54,7 +58,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Business%202impact%20analysis.png)
  
  
- ### **__Step 3. Find new errors__** 
+ #### **__Step 3. Find new errors__** 
  >By  drilling this issue further down, you can learn what types of problems were encountered. The situation is illustrated by the JavaScript error increase. 
  
  
@@ -81,7 +85,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  
 
  
- ### **__Step 4. Find error details** 
+ #### **__Step 4. Find error details** 
  >By clicking on the **View Full Details** button on the right bottom of the Top 10 JavaScript table, you can view such error details as: 
  * page occurence, 
  * error message, 
@@ -98,7 +102,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  **__NOTE:__** Since www.performancewear.com a single-page application, you don't know where the command "click on 'btn_sell-421198' " was executed and what actions it was meant to perform. Therefore, further research is required.
   
   
-  ### **__Step 5. Find the specific user/users impacted and replay the session__**
+  #### **__Step 5. Find the specific user/users impacted and replay the session__**
   
   
   >* In order to find more details about the user and actions performed, get back to the **Business impact analysis** icon and click on the **Number of impacted users**:
@@ -110,14 +114,14 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
   >* Find the affected session and click the **Replay** button![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Replay%20button.png) 
 
 
- ### **__Step 6. Find where and why the error occured __**
+ #### **__Step 6. Find where and why the error occured __**
  >In the user's session's recording, you can detect the exact moment when issue was faced by the user and a specific field impacted:
  ![screenshot](https://github.com/AnnaRyb/Screenshots/blob/main/Postal%20code.png) 
  
  >In this case, Ashley inserted the postal code in an invalid format for the selected country field, prompting a loading indicator that did not dissappear and blocked moving to the next step. The recording shows Ashley's numerous attempts to continue after correcting the postal code, then filling in the form again, and finally quitting the application.
  > Session Replay's short movie is the best illustration of customer journey, with every step she/he takes before and after an incident happens.
  
- ## **[Watch the video tutorial](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)** 
+ **[Watch the video tutorial](https://video.dynatrace.com/watch/TNuevLCmF91DD1zW1X9bqD)** 
  
  
  
