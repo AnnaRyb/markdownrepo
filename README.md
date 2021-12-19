@@ -49,7 +49,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
 * error status table within three main categories:
 
 | Items        |      Affected | Recovered| Monitored|
-|------------  |:-------------:|------:   |------:   |
+|------------  |:-------------:|:--------:|:--------:|
 |Application   |       1       |   -      |    24    |
 |Service       |       0       |   -      |    92    |
 |Infrastructure|       0       |   12     |    46    |
@@ -92,7 +92,7 @@ Have you ever wondered if it's possible to detect [application](https://www.dyna
  * error message, 
  * stacktrace,
  * **exact user action that caused the issue** in the form of the command that was executed.
- [Details on the JavaScript error analysis can be found here.](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/source-map-support-for-javascript-error-analysis)
+ [Source map for JavaScript error analysis](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/web-applications/source-map-support-for-javascript-error-analysis)
  
  
  
